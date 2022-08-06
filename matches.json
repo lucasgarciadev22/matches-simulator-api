@@ -8,12 +8,12 @@
     "home": {
       "name": "Brasil",
       "power": 5,
-      "image": "TODO"
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png"
     },
     "away": {
       "name": "Argentina",
       "power": 4,
-      "image": "TODO"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2560px-Flag_of_Argentina.svg.png"
     }
   }
 ]
